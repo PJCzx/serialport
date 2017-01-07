@@ -1,0 +1,28 @@
+{
+  "name": "serialportconsole",
+  "version": "0.0.1",
+  "description": "Simple display of the configured serial port",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PJCzx/serialport.git"
+  },
+  "keywords": [
+    "serial",
+    "port",
+    "serialport",
+    "console"
+  ],
+  "author": "Pierre-Julien Cazaux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PJCzx/serialport/issues"
+  },
+  "homepage": "https://github.com/PJCzx/serialport#readme",
+  "dependencies": {
+    "serialport": "^4.0.7"
+  }
+}
