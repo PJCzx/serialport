@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/PJCzx/serialport#readme",
   "dependencies": {
-    "serialport": "^4.0.7"
+    "serialport": "^4.0.7",
+    "tty": "^1.0.1"
   }
 }
